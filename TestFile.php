@@ -7,3 +7,5 @@
  */
 
 //Testowy plik do commitu
+
+//Plik po zmianach UI w nowym branch
