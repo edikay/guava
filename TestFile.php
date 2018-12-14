@@ -9,3 +9,5 @@
 //Testowy plik do commitu
 
 //Plik po zmianach UI w nowym branch
+
+//Plik po kolejnych zmianach do wersji v3
